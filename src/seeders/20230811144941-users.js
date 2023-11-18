@@ -10,7 +10,8 @@ module.exports = {
         age: 45,
         email: 'example2@example.com',
         createdAt: new Date(),
-        updatedAt: new Date()
+        updatedAt: new Date(),
+        phone: '1234567899',
       },
       {
         firstName: 'may',
@@ -18,7 +19,8 @@ module.exports = {
         age: 45,
         email: 'example@example.com',
         createdAt: new Date(),
-        updatedAt: new Date()
+        updatedAt: new Date(),
+        phone: '1234567899',
       },
     ]);
   },

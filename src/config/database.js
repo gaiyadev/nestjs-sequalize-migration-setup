@@ -23,4 +23,4 @@ module.exports = {
     password: 'roku',
     database: 'prod',
   },
-}
+};
